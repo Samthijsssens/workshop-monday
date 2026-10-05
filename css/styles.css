@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+h1 {
+    color: darkblue;
+}
+p {
+    color: darkgreen;
+    font-size: 18px;
+}
+
+
+#new-borders {
+    border: 4px dotted red;
+}
+
+.container-style {
+    margin: 50px;
+    padding: 30px;
+    background-color:aquamarine;
+}
